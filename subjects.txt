@@ -1,1 +1,3 @@
 MH001 - Lap trinh Python - 102160
+MH002 - Lap trinh Java - 102160
+MH003 - DevOps - 102160
